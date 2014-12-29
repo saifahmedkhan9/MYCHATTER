@@ -13,6 +13,6 @@ CHAT APPLICATION USING JAVA OVER LAN OR WIFI CONNECTIVITY (WITH EMOTICONS)
  - Emoti button at Bottom right side
  - Set the Current Directory of FileChooser to the 'emicons' folder.
  
-*Clear Conversation Button at top right side.
+* Clear Conversation Button at top right side.
 
-*You can Add more Emoticons by adding new Emoticons image in 'emicons' folder and modifying code.
+* You can Add more Emoticons by adding new Emoticons image in 'emicons' folder and modifying code.
